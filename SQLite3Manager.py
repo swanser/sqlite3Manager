@@ -5,7 +5,7 @@
 #TODO
 #Add Duplicate Table Entry Error Handling
 
-import tkinter, sqlite3, gridIt
+import tkinter, sqlite3
 from tkinter import ttk
 from tkinter import filedialog, messagebox
 
